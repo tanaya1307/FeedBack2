@@ -1,0 +1,22 @@
+
+body{
+   background-color: #949398FF;
+   background-image: url("https://images.unsplash.com/photo-1518135714426-c18f5ffb6f4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGN1c3RvbWVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60");
+   width:100%;
+   height:100%;
+    
+}
+.main{
+    align-items: center;
+    position: absolute;
+    left:45%;
+    top:40%;
+    width:100%;
+    background-color:#F4DF4EFF ;
+}
+.btn{
+    background-color: #F4DF4EFF;
+    padding:1rem;
+    margin:1rem;
+
+}
